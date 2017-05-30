@@ -38,6 +38,6 @@ public class AppTest
     }
     
     public void testAddition(){
-    	assertEquals(2,App.addition(1,1));
+    	assertEquals(3,App.addition(1,1));
     }
 }
